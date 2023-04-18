@@ -1,7 +1,7 @@
 {
   "aliases": {
     "up": {
-      "script-ref": "https://raw.githubusercontent.com/CaravanaCloud/jbang-catalog/ccb3640b41bd4105c00b3016e211d7ab4a67cbcc/jbang-catalog.json",
+      "script-ref": "main@CaravanaCloud/up-cli",
       "description": "Alias for UP CLI"
     }
   }
