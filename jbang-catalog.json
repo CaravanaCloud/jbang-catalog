@@ -1,0 +1,7 @@
+{
+    "aliases": {
+      "up": {
+        "script-ref": "https://github.com/CaravanaCloud/up-cli/blob/main/main.java",
+        "description": "Alias for UP CLI"
+      }
+  }
